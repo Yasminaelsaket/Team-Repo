@@ -1,4 +1,4 @@
-﻿***Sprint0***
+***Sprint0***
 ---
 
 ## Getting Started
@@ -15,7 +15,7 @@
 
 > *Yasmina Elsaket, 37-1642.*
 > *Esraa Mahmoud, 37-14769.*
-> *Nader Waguih, T-09 , 37-6772*
+> *Nader Waguih, 37-6772.*
 > Abdullah Mohieeldin, 37-4821.
 
 
