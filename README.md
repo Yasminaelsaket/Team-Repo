@@ -16,7 +16,7 @@
 > *Yasmina Elsaket, 37-1642.*
 > *Esraa Mahmoud, 37-14769.*
 > *Nader Waguih, T-09 , 37-6772*
-> Abdullah Mohieeldin, 37-4821.
+> Abdallah Mohieeldin, 37-4821.
 
 
 
@@ -30,7 +30,7 @@ Programming background of authors.
 | Yasmina  | ✅ |   ❓    |      ✅ | 🎉|
 | Esraa   | ✅ |   ✅  |    ✅  |🎉|
 | Nader | ✅ |   ❓  |     ✅ |🎊|
-| Abdullah |✅ |   ✅  |   ✅   |🎈|  
+| Abdallah |✅ |   ✅  |   ✅   |🎈|  
 
   
 | Name       | Haskell        | Prolog|Photoshop | Excel| 
@@ -38,7 +38,7 @@ Programming background of authors.
 | Yasmina  | ✅ |   ❓    |      ✅ | 🎉|
 | Esraa   | ✅ |   ✅  |    ✅  |🎉|
 | Nader | ✅ |   ❓  |     ✅ |🎊|
-| Abdullah |✅ |   ✅  |   ✅   |🎈|  
+| Abdallah |✅ |   ✅  |   ✅   |🎈|  
 
 
 
