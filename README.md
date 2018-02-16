@@ -5,8 +5,8 @@
 
 * Learning Github
 * Group Component first trial 
-* Sprint 0 due on friday
-* C1
+* Sprint 0 due on friday 11:59
+* Component 1
 
 
 
