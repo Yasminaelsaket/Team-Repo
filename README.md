@@ -6,7 +6,7 @@
 * Learning Github
 * Group Component first trial 
 * Sprint 0 due on friday
-* co
+* C1
 
 
 
