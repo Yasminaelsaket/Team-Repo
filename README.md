@@ -12,6 +12,7 @@
 
 
 
+
 ## Authors
 
 > *Yasmina Elsaket, 37-1642.*
@@ -33,13 +34,6 @@ Programming background of authors.
 | Nader | ✅ |   ❓  |     ✅ |🎊|
 | Abdallah |✅ |   ✅  |   ✅   |🎈|  
 
-  
-| Name       | Haskell        | Prolog|Photoshop | Excel| 
-| ------------- |:-------------:| :-----:|:-------: | :-------: |
-| Yasmina  | ✅ |   ❓    |      ✅ | 🎉|
-| Esraa   | ✅ |   ✅  |    ✅  |🎉|
-| Nader | ✅ |   ❓  |     ✅ |🎊|
-| Abdallah |✅ |   ✅  |   ✅   |🎈|  
 
 
 
