@@ -6,7 +6,9 @@
 * Learning Github
 * Group Component first trial 
 * Sprint 0 due on friday
-* C1
+* Compomemt1 (esraa12)
+*trying our best
+
 
 
 
@@ -32,13 +34,6 @@ Programming background of authors.
 | Nader | ✅ |   ❓  |     ✅ |🎊|
 | Abdallah |✅ |   ✅  |   ✅   |🎈|  
 
-  
-| Name       | Haskell        | Prolog|Photoshop | Excel| 
-| ------------- |:-------------:| :-----:|:-------: | :-------: |
-| Yasmina  | ✅ |   ❓    |      ✅ | 🎉|
-| Esraa   | ✅ |   ✅  |    ✅  |🎉|
-| Nader | ✅ |   ❓  |     ✅ |🎊|
-| Abdallah |✅ |   ✅  |   ✅   |🎈|  
 
 
 
