@@ -5,8 +5,10 @@
 
 * Learning Github
 * Group Component first trial 
-* Sprint 0 due on friday 11:59
-* Component 1(esraa12)
+* Sprint 0 due on friday
+* Compomemt1 (esraa12)
+*trying our best
+
 
 
 
